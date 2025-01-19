@@ -10,7 +10,7 @@ the hospital whilst evading zombies.
 
 from typing import Tuple, Optional, Dict, List
 
-from a2_support import *
+from End_of_Days_support import *
 
 # Replace these <strings> with your name, student number and email address.
 __author__ = "<Hizam Alaklbi>, <46127679>"
